@@ -1,0 +1,12 @@
+*{
+    background-image: url(../background.gif);
+    /* background-position:center; */
+    background-size: auto;
+}
+h1{
+    text-align: center;
+}
+#Blog{
+    text-align: center;
+    font-size: 20px;
+}

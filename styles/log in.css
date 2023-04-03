@@ -1,0 +1,28 @@
+*{
+    background-image: url(../log\ in\ wallpaer.jpeg);
+    /* background-color:darkmagenta; */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: black ;
+}
+form{
+    text-align: center;
+    padding-top: 100px;
+    color: black; 
+}
+.area{
+    margin: 150px 50px 50px 800px ;
+}
+.submit{
+    margin: 0px 90px 30px 875px;
+    background-color: white;
+}
+.input{
+    background-color: white;
+}
+.Input{
+    background-color: aqua;
+}
