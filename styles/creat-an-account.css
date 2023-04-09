@@ -1,0 +1,45 @@
+*{
+    background-color: lightblue;
+    background-image: url('../creat-wallpaper.jpg');
+    
+    background-size: 1500px;
+    background-repeat: no-repeat;
+}
+nav ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 30px;
+}
+nav a{
+    text-decoration: none;
+}
+nav ul li:hover{
+    background-color: lightskyblue;
+}
+form{
+    text-align: center;
+    margin:150px 0px 0px 0px;
+}
+ ::placeholder{
+    text-align: center;
+    color: black;
+    
+ }
+ .Checkbox{
+    margin-left: 5px;
+ }
+ .Pass{
+    margin-left: 90px;
+ }
+ .Reset{
+    margin-left: 5px;
+ }
+ .Creat{
+    background-color: yellowgreen;
+    border: 5px solid darkblue;
+    color: blueviolet;
+    height: 50px;
+    width: 150px;
+ }
